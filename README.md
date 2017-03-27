@@ -23,12 +23,11 @@ Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for 
 
 ## Autolaunch
 use `./telegamer.sh ` for Autolaunch
+### Thanks to [BlackLife™](https://t.me/Parham_Official)
 
-## Developers
-
- * [Mehrpouya](https://telegram.me/Mehrpouya)
- * [Aryan](https://telegram.me/AryawN_Si)
- * [MrBlacklife](https://telegram.me/Mrblacklife)
-
-### Powered by [TeleGamer](https://telegram.me/TeleGamerCh)
-### Thanks to [BlackLife™](https://t.me/BlackLifeTM)
+این سورس طراحی شده از هانتر تیمه افی اصلا نداره برای ران کردنشم طبق دستوراتی ک میدم بزنید...
+cd tabchi
+killall -9 tmux
+killall -9 screen
+screen ./telegamer.sh
+اگ مشکلی بود ب ایدیم مراجعه کنید...
